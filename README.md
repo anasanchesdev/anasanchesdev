@@ -4,11 +4,6 @@ My main goal is to make useful projects in which I can develop my programming an
 Nowadays, I'm looking foward to learn more about Python Automation and Data Science.
 I speak portuguese (as my first language) and english.
 
-I'm open for any offers or sugestions. 
-Contact me: 
-
-E-mail: dev.anaclarasanches@gmail.com
-
 Website: coming soon!
 
 Habitica: @tyooci
