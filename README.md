@@ -1,5 +1,5 @@
 # 💫 Hello there!
-<😁> I'm Ana Clara Sanches.  My main goal is to make useful projects in which I can develop my programming and problem-solving skills.<br><📍> Belo Horizonte, MG (Brazil)<br><🎯> Working on: To-do List App<br> 
+<😁> I'm Ana Clara Sanches.  My main goal is to make useful projects in which I can develop my programming and problem-solving skills.<br><📍> Belo Horizonte, MG (Brazil)<br><🎯> Working on: To-do List App, Snake Game<br> 
 
 # 💻 Tech Stack:
 <div align="center">
