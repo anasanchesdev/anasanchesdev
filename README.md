@@ -1,5 +1,5 @@
 # 💫 Hello there!
-<😁> I'm Ana Clara Sanches.  My main goal is to make useful projects in which I can develop my programming and problem-solving skills.<br><📍> Belo Horizonte, MG (Brazil)<br><🎯> Working on: To-do List App, Snake Game<br> 
+<p>Meu nome é Ana Clara Sanches. <strong> O meu objetivo aqui é desenvolver programas e projetos úteis nos quais eu possa aprimorar as minhas habilidades de programação e resolução de problemas.</strong> O meu foco é me aprofundar na linguagem de programação Python juntamente com outras linguagens de Front-End, para que eu possa me tornar uma desenvolvedora Full-Stack no futuro.</p><📍> Belo Horizonte, MG (Brazil)<br><🎯> Working on: To-do List App, Snake Game<br> <🌐> PT-BR | ENG
 
 # 💻 Tech Stack:
 <div align="center">
