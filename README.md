@@ -3,7 +3,7 @@
 
 # 💫 Hi there!
 <p>My name is Ana Clara Sanches. <strong>My goal here is to develop useful programs and projects in which I can improve my programming and problem-solving skills.</strong> I'm aiming to increase my knowledge of Python along with other Front-end languages, so I can become a Full-Stack developer in the future.</p><br>
-<p><📍> Belo Horizonte, MG (Brazil)<br><🎯> Working on: To-do List App, Snake Game<br> <🌐> PT-BR | ENG</p>
+<p><📍> Belo Horizonte, MG (Brazil)<br><🌐> PT-BR | ENG</p>
 
 # 💻 Tech Stack:
 <div align="center">
