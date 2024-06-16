@@ -12,21 +12,23 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+    <code><img width="50" src="files/pycharm.png" alt="Pycharm" title="Pycharm"/></code>
+    <code><img width="50" src="files/proteus.png" alt="Pycharm" title="Pycharm"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
-	<code><img width="50" src="pycharm.png" alt="Pycharm" title="Pycharm"/></code>
+    
 </div>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anasanchesdev&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anasanchesdev&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasanchesdev&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=anasanchesdev&amp;theme=nord&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" width="400"><br>
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=anasanchesdev&amp;theme=nord&amp;hide_border=false" width="400"><br>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasanchesdev&amp;theme=nord&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" width="400"><br>
+    <img height="300" src="https://github-contributor-stats.vercel.app/api?username=anasanchesdev&amp;limit=5&amp;theme=nord&amp;combine_all_yearly_contributions=true" width="400"><br>
+    <img height="25" src="https://visitcount.itsvg.in/api?id=anasanchesdev&amp;icon=5&amp;color=12" width="150"/>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anasanchesdev&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=anasanchesdev&icon=5&color=12)](https://visitcount.itsvg.in)
