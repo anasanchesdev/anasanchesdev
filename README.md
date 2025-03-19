@@ -26,9 +26,6 @@
 # 📊 GitHub Stats:
 <div align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=anasanchesdev&amp;theme=nord&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" width="400"><br>
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=anasanchesdev&amp;theme=nord&amp;hide_border=false" width="400"><br>
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasanchesdev&amp;theme=nord&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" width="400"><br>
-    <img height="300" src="https://github-contributor-stats.vercel.app/api?username=anasanchesdev&amp;limit=5&amp;theme=nord&amp;combine_all_yearly_contributions=true" width="400"><br>
-    <img height="25" src="https://visitcount.itsvg.in/api?id=anasanchesdev&amp;icon=5&amp;color=12" width="150"/>
 </div>
 
